@@ -1,7 +1,19 @@
-# Paul Pathana's ePortfolio
 
-Welcome to my ePortfolio! This repository showcases my work and achievements. Below are three artifacts I'm particularly proud of, followed by three enhancements I've made.
-##Self-Assessment
+# [Your Name]'s ePortfolio
+
+Welcome to my ePortfolio! This repository showcases my work and achievements. Below is a self-assessment of my skills and achievements, followed by three artifacts I'm particularly proud of, and then three enhancements I've made. 
+
+## Self-Assessment
+
+### Technical Skills
+- Skill 1: Description of your proficiency level.
+- Skill 2: Description of your proficiency level.
+- Skill 3: Description of your proficiency level.
+
+### Soft Skills
+- Skill 1: Description of your proficiency level.
+- Skill 2: Description of your proficiency level.
+- Skill 3: Description of your proficiency level.
 
 ## Artifacts
 
@@ -28,6 +40,7 @@ Description: Brief description of Enhancement 3.
 ## Navigation
 
 - [Home](#)
+- [Self-Assessment](#self-assessment)
 - [Artifacts](#artifacts)
   - [Artifact 1](#artifact-1-name)
   - [Artifact 2](#artifact-2-name)
@@ -37,3 +50,6 @@ Description: Brief description of Enhancement 3.
   - [Enhancement 2](#enhancement-2-name)
   - [Enhancement 3](#enhancement-3-name)
 - [Contact Me](#)
+```
+
+Fill in the sections with your actual skills and achievements. This self-assessment section adds depth to your ePortfolio by giving visitors an understanding of your strengths and areas of expertise.
