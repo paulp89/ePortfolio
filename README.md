@@ -1,3 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-image: url();
+      background-size: cover;
+      background-position: center;
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    /* Your additional CSS styles */
+  </style>
+</head>
+<body>
+
+
+
 # Paul Pathana's ePortfolio
 
 ## Navigation
