@@ -26,7 +26,7 @@ While reflecting on the process of enhancing and modifying the artifacts I learn
 - [Self-Assessment](https://github.com/paulp89/ePortfolio/blob/main/README.md)
 - [Code Review](https://github.com/paulp89/ePortfolio/blob/main/Code%20Review.md)
 - [Narrative]()
-  - [Software Design and Engineering](https://github.com/paulp89/ePortfolio/edit/main/Software%20Design%20and%20Engineering.md)
+  - [Software Design and Engineering](https://github.com/paulp89/ePortfolio/blob/main/Software%20Design%20and%20Engineering.md)
   - [Algorithms and Data Structure](https://github.com/paulp89/ePortfolio/edit/main/Software%20Design%20and%20Engineering.md)
   - [Databases](https://github.com/paulp89/ePortfolio/blob/main/Artifact%203.md)
 - [Artifacts](https://github.com/paulp89/ePortfolio/tree/main/Original%20Artifacts)
