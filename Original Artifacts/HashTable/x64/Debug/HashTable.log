@@ -1,0 +1,7 @@
+﻿  CSVparser.cpp
+D:\SNHU CLASSES\CS - 499\Original\HashTable\CSVparser.cpp(116,29): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\SNHU CLASSES\CS - 499\Original\HashTable\CSVparser.cpp(121,28): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\SNHU CLASSES\CS - 499\Original\HashTable\CSVparser.cpp(203,26): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  HashTable.cpp
+  Generating Code...
+  HashTable.vcxproj -> D:\SNHU CLASSES\CS - 499\Original\HashTable\x64\Debug\HashTable.exe
