@@ -1,6 +1,6 @@
 
 # Paul Pathana's ePortfolio
-
+<center><img src="Banner.jpg"></center>
 ## Navigation
 
 - [Home](https://github.com/paulp89/ePortfolio/blob/main/README.md)
