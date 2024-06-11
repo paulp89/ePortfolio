@@ -1,16 +1,22 @@
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7QCFf3crAx0/0.jpg)](https://www.youtube.com/watch?v=7QCFf3crAx0)
 
+
+
 ## Navigation
 
 - [Home](https://github.com/paulp89/ePortfolio/blob/main/README.md)
 - [Self-Assessment](https://github.com/paulp89/ePortfolio/blob/main/README.md)
 - [Code Review](https://github.com/paulp89/ePortfolio/blob/main/Code%20Review.md)
+- [Narrative]()
+  - [Software Design and Engineering]( https://github.com/paulp89/ePortfolio/blob/main/Software%20Design%20and%20Engineering.md)
+  - [Algorithms and Data Structure]( https://github.com/paulp89/ePortfolio/blob/main/Algorithms%20and%20Data%20Structure.md)
+  - [Databases]( https://github.com/paulp89/ePortfolio/blob/main/Databases.md)
 - [Artifacts](https://github.com/paulp89/ePortfolio/tree/main/Original%20Artifacts)
-  - [Artifact 1](https://github.com/paulp89/ePortfolio/blob/main/Artifact%201.md)
-  - [Artifact 2](https://github.com/paulp89/ePortfolio/blob/main/Artifact%202.md)
-  - [Artifact 3](https://github.com/paulp89/ePortfolio/blob/main/Artifact%203.md)
+  - [Software Design and Engineering Artifact ]( https://github.com/paulp89/ePortfolio/tree/main/Original%20Artifacts/M7)
+  - [Algorithms and Data Structure Artifact ]( https://github.com/paulp89/ePortfolio/tree/main/Original%20Artifacts/HashTable)
+  - [Databases Artifact ]( https://github.com/paulp89/ePortfolio/tree/main/Original%20Artifacts/inventory_app)
 - [Enhancements](https://github.com/paulp89/ePortfolio/tree/main/Enhancement)
-  - [Enhancement 1](https://github.com/paulp89/ePortfolio/blob/main/Enhancement/Enhancement1.md)
-  - [Enhancement 2](https://github.com/paulp89/ePortfolio/blob/main/Enhancement/Enhancement2.md)
-  - [Enhancement 3](https://github.com/paulp89/ePortfolio/blob/main/Enhancement/Enhancement3.md)
+  - [Software Design and Engineering Enhancement ]( https://github.com/paulp89/ePortfolio/tree/main/Enhancement/M7)
+  - [Algorithms and Data Structure Enhancement ](https://github.com/paulp89/ePortfolio/tree/main/Enhancement/HashTable)
+  - [Databases Enhancement ]( https://github.com/paulp89/ePortfolio/tree/main/Enhancement/inventory_app)
