@@ -20,20 +20,23 @@ Reflect on the process of enhancing and modifying the artifact. What did you lea
 
 While reflecting on the process of enhancing and modifying the artifacts I learned several things.  I learned why the textures weren't loading properly by reading more about image channels.  I had to make modifications to the alpha channels since textures would not load properly in the best-case scenario or break the program.  I learned after my code review that I didn’t need the disk object since I already modified the cylinder object.  So essentially, I learned code redundancy and got rid of codes I didn’t need.  I would say the biggest challenge during the enhancement was finding out why the program would work with certain textures and break with others.
 
+
+
 ## Navigation
 
 - [Home](https://github.com/paulp89/ePortfolio/blob/main/README.md)
 - [Self-Assessment](https://github.com/paulp89/ePortfolio/blob/main/README.md)
 - [Code Review](https://github.com/paulp89/ePortfolio/blob/main/Code%20Review.md)
 - [Narrative]()
-  - [Software Design and Engineering](https://github.com/paulp89/ePortfolio/blob/main/Software%20Design%20and%20Engineering.md)
-  - [Algorithms and Data Structure](https://github.com/paulp89/ePortfolio/edit/main/Software%20Design%20and%20Engineering.md)
-  - [Databases](https://github.com/paulp89/ePortfolio/blob/main/Artifact%203.md)
+  - [Software Design and Engineering]( https://github.com/paulp89/ePortfolio/blob/main/Software%20Design%20and%20Engineering.md)
+  - [Algorithms and Data Structure]( https://github.com/paulp89/ePortfolio/blob/main/Algorithms%20and%20Data%20Structure.md)
+  - [Databases]( https://github.com/paulp89/ePortfolio/blob/main/Databases.md)
 - [Artifacts](https://github.com/paulp89/ePortfolio/tree/main/Original%20Artifacts)
-  - [Artifact 1](https://github.com/paulp89/ePortfolio/blob/main/Artifact%201.md)
-  - [Artifact 2](https://github.com/paulp89/ePortfolio/blob/main/Artifact%202.md)
-  - [Artifact 3](https://github.com/paulp89/ePortfolio/blob/main/Artifact%203.md)
+  - [Software Design and Engineering Artifact ]( https://github.com/paulp89/ePortfolio/tree/main/Original%20Artifacts/M7)
+  - [Algorithms and Data Structure Artifact ]( https://github.com/paulp89/ePortfolio/tree/main/Original%20Artifacts/HashTable)
+  - [Databases Artifact ]( https://github.com/paulp89/ePortfolio/tree/main/Original%20Artifacts/inventory_app)
 - [Enhancements](https://github.com/paulp89/ePortfolio/tree/main/Enhancement)
-  - [Enhancement 1](https://github.com/paulp89/ePortfolio/blob/main/Enhancement/Enhancement1.md)
-  - [Enhancement 2](https://github.com/paulp89/ePortfolio/blob/main/Enhancement/Enhancement2.md)
-  - [Enhancement 3](https://github.com/paulp89/ePortfolio/blob/main/Enhancement/Enhancement3.md)
+  - [Software Design and Engineering Enhancement ]( https://github.com/paulp89/ePortfolio/tree/main/Enhancement/M7)
+  - [Algorithms and Data Structure Enhancement ](https://github.com/paulp89/ePortfolio/tree/main/Enhancement/HashTable)
+  - [Databases Enhancement ]( https://github.com/paulp89/ePortfolio/tree/main/Enhancement/inventory_app)
+
