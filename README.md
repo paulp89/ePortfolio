@@ -3,18 +3,16 @@
 <head>
   <style>
     body {
-      background-image: url();
+      background-image: url(https://raw.githubusercontent.com/paulp89/ePortfolio/main/Readme%20background.JPG);
       background-size: cover;
       background-position: center;
       font-family: Arial, sans-serif;
       padding: 20px;
     }
-    /* Your additional CSS styles */
+    /* Additional CSS styles can be added here */
   </style>
 </head>
 <body>
-
-
 
 # Paul Pathana's ePortfolio
 
@@ -59,3 +57,6 @@ Description: Brief description of Enhancement 2.
 
 ### 3. [Enhancement 3 Name](https://github.com/paulp89/ePortfolio/blob/main/Enhancement/Enhancement3.md)
 Description: Brief description of Enhancement 3.
+
+</body>
+</html>
