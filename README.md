@@ -33,7 +33,7 @@ Description: Brief description of Enhancement 3.
 
 - [Home](#)
 - [Self-Assessment](#self-assessment)
-- [Code Review](#self-assessment)
+- [Code Review](https://github.com/paulp89/ePortfolio/blob/main/Code%20Review.md)
 - [Artifacts](#artifacts)
   - [Artifact 1](https://github.com/paulp89/ePortfolio/tree/main/Original%20Artifacts/HashTable)
   - [Artifact 2](#artifact-2-name)
