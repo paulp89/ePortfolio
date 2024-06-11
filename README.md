@@ -2,7 +2,7 @@
 
 ## Navigation
 
-[Home](#) | [Self-Assessment](#self-assessment) | [Code Review](#code-review) | [Artifacts](#artifacts) | [Enhancements](#enhancements)
+[Home]( https://github.com/paulp89/ePortfolio/blob/main/README.md) | [Self-Assessment]( https://github.com/paulp89/ePortfolio/blob/main/README.md) | [Code Review]( https://github.com/paulp89/ePortfolio/blob/main/Code%20Review.md) | [Artifacts]( https://github.com/paulp89/ePortfolio/tree/main/Original%20Artifacts) | [Enhancements]( https://github.com/paulp89/ePortfolio/tree/main/Enhancement)
 
 ## Self-Assessment
 
@@ -30,3 +30,4 @@ Description: Brief description of Enhancement 2.
 
 ### 3. [Enhancement 3 Name]
 Description: Brief description of Enhancement 3.
+
