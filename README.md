@@ -42,14 +42,10 @@ Description: Brief description of Enhancement 3.
 - [Home](#)
 - [Self-Assessment](#self-assessment)
 - [Artifacts](#artifacts)
-  - [Artifact 1](#artifact-1-name)
+  - [Artifact 1](https://github.com/paulp89/ePortfolio/tree/main/Original%20Artifacts/HashTable)
   - [Artifact 2](#artifact-2-name)
   - [Artifact 3](#artifact-3-name)
 - [Enhancements](#enhancements)
   - [Enhancement 1](#enhancement-1-name)
   - [Enhancement 2](#enhancement-2-name)
   - [Enhancement 3](#enhancement-3-name)
-- [Contact Me](#)
-```
-
-Fill in the sections with your actual skills and achievements. This self-assessment section adds depth to your ePortfolio by giving visitors an understanding of your strengths and areas of expertise.
