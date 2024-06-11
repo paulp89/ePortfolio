@@ -7,7 +7,7 @@
 ## Self-Assessment
 
 
-### Code Review
+## Code Review
 Description: Brief description of your code review process and skills.
 
 ## Artifacts
