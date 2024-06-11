@@ -21,19 +21,24 @@ Reflect on the process of enhancing and modifying the artifact. What did you lea
  While developing the Android mobile application, I learned a few things.  I learned how to use Android studios, utilizing the tools and features to create and design the UI, I had to learn how to develop a database within the app, such as SQLite for storing, removing, and editing data.  I also learned how to interact with the UI functionalities with the database.  During the enhancement, I learned about Android's storage structure and how to access pictures with intent. With that, I learned how to integrate media such as images to the application to display with the shoe inventory details.  One of the challenges I faced was avoiding the use of deprecated methods for checking intent results and instead using Google's recommended way of doing it, it took me a little while to grasp it.
 
 
+
+
 ## Navigation
 
 - [Home](https://github.com/paulp89/ePortfolio/blob/main/README.md)
 - [Self-Assessment](https://github.com/paulp89/ePortfolio/blob/main/README.md)
 - [Code Review](https://github.com/paulp89/ePortfolio/blob/main/Code%20Review.md)
+- [Narrative]()
+  - [Software Design and Engineering]( https://github.com/paulp89/ePortfolio/blob/main/Software%20Design%20and%20Engineering.md)
+  - [Algorithms and Data Structure]( https://github.com/paulp89/ePortfolio/blob/main/Algorithms%20and%20Data%20Structure.md)
+  - [Databases]( https://github.com/paulp89/ePortfolio/blob/main/Databases.md)
 - [Artifacts](https://github.com/paulp89/ePortfolio/tree/main/Original%20Artifacts)
-  - [Artifact 1](https://github.com/paulp89/ePortfolio/blob/main/Artifact%201.md)
-  - [Artifact 2](https://github.com/paulp89/ePortfolio/blob/main/Artifact%202.md)
-  - [Artifact 3](https://github.com/paulp89/ePortfolio/blob/main/Artifact%203.md)
+  - [Software Design and Engineering Artifact ]( https://github.com/paulp89/ePortfolio/tree/main/Original%20Artifacts/M7)
+  - [Algorithms and Data Structure Artifact ]( https://github.com/paulp89/ePortfolio/tree/main/Original%20Artifacts/HashTable)
+  - [Databases Artifact ]( https://github.com/paulp89/ePortfolio/tree/main/Original%20Artifacts/inventory_app)
 - [Enhancements](https://github.com/paulp89/ePortfolio/tree/main/Enhancement)
-  - [Enhancement 1](https://github.com/paulp89/ePortfolio/blob/main/Enhancement/Enhancement1.md)
-  - [Enhancement 2](https://github.com/paulp89/ePortfolio/blob/main/Enhancement/Enhancement2.md)
-  - [Enhancement 3](https://github.com/paulp89/ePortfolio/blob/main/Enhancement/Enhancement3.md)
-
+  - [Software Design and Engineering Enhancement ]( https://github.com/paulp89/ePortfolio/tree/main/Enhancement/M7)
+  - [Algorithms and Data Structure Enhancement ](https://github.com/paulp89/ePortfolio/tree/main/Enhancement/HashTable)
+  - [Databases Enhancement ]( https://github.com/paulp89/ePortfolio/tree/main/Enhancement/inventory_app)
 
 
