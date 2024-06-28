@@ -7,7 +7,7 @@
 ## Navigation
 
 - [Home](https://paulp89.github.io/ePortfolio/)
-- [Self-Assessment](https://paulp89.github.io/ePortfolio/
+- [Self-Assessment](https://paulp89.github.io/ePortfolio/)
 - [Code Review](https://www.youtube.com/watch?v=7QCFf3crAx0)
 - [Narrative]()
   - [Software Design and Engineering]( https://github.com/paulp89/ePortfolio/blob/main/Software%20Design%20and%20Engineering.md)
