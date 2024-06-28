@@ -6,7 +6,7 @@
 
 ## Navigation
 
-- [Home](https://github.com/paulp89/ePortfolio/blob/main/README.md)
+- [Home](https://paulp89.github.io/ePortfolio/)
 - [Self-Assessment](https://github.com/paulp89/ePortfolio/blob/main/README.md)
 - [Code Review](https://github.com/paulp89/ePortfolio/blob/main/Code%20Review.md)
 - [Narrative]()
